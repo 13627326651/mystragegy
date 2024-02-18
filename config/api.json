@@ -1,0 +1,11 @@
+{
+    "binance": [
+        {
+            "apikey": "QNmPFa4ztYzfuvurAORGONxzvYDuipGcZDTaCWDv5HT5cQbMzXchewQKIOjs2G4B",
+            "secretkey": "HTXrk9v65XMYRA5TH8lDnE05SYcy1aZRS7opTJVJuUtwtpGhGO0TqhF7WcrTJO3r",
+            "quantity": 0.01,
+            "type": "usdt",
+            "name": "clarechen"
+        }
+    ]
+}
